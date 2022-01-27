@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="container_height">32dp</dimen>
+    <dimen name="container_margin">4dp</dimen>
+    <dimen name="thumb_size">24dp</dimen>
+    <dimen name="ripple_size">22dp</dimen>
+    <dimen name="scrubber_size">18dp</dimen>
+    <dimen name="line">2dp</dimen>
+    <dimen name="circle_radius">3dp</dimen>
+</resources>
